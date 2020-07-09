@@ -1,0 +1,14 @@
+.sectioon-list{
+    padding-bottom: 10px;
+    border-bottom:1px solid black;
+    border-radius: 1px;
+    margin-top: 10px;
+    display: flex;
+    transition: all;
+    transform: translateY(-1rem);
+}
+
+.sectioon-list :hover{
+    cursor: pointer;
+    font-size: 20.5px;
+}
